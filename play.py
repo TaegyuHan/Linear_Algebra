@@ -17,3 +17,5 @@ matrix_show(a1)
 a = matrix_elementray_scalar_product(a1, 2, Fraction(1, 3))
 matrix_show(a1)
 matrix_show(a1)
+matrix_show(a1)
+
